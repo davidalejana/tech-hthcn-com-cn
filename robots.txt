@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://davidalejana.github.io/tech-hthcn-com-cn/sitemap.xml
